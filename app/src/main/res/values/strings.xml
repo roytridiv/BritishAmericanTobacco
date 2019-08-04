@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BritishAmericanTobacco</string>
+
+
+    <string name="color_prompt">Choose a Status</string>
+    <string-array name="color_arrays">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+
+    </string-array>
+
+
+</resources>
